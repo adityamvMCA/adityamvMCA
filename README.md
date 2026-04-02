@@ -1,39 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1a1a2e,100:16213e&height=120&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=140&section=header&text=Aditya%20M%20V&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20Developer&descAlignY=75&descSize=18" width="100%"/>
 
-# Aditya M V
-### Full Stack Developer
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB+%7C+Python;Crafting+scalable+%26+performant+web+apps;Open+to+new+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+production-grade+web+applications;React+%7C+Node.js+%7C+MongoDB+%7C+MySQL+%7C+Python;Founder+%40+TrustIQ+Tech+%F0%9F%9A%80;Open+to+exciting+opportunities)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info@trustiqtech.it.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adityamvMCA)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![TrustIQ Tech](https://img.shields.io/badge/TrustIQ%20Tech-0D1117?style=flat-square&logo=vercel&logoColor=white)](https://trustiqtech.com)
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=adityamvMCA&style=flat-square&color=58A6FF&label=Profile+Views)
 
 </div>
 
-<br/>
-
 ---
 
-## About
+## About Me
 
-Full Stack Developer with hands-on experience building production-grade web applications using the MERN stack. Currently at **TrustIQ Tech**, designing and shipping scalable systems — from React-powered interfaces to RESTful Node.js APIs backed by MongoDB and MySQL.
+I'm a Full Stack Developer and founder of **[TrustIQ Tech](https://trustiqtech.com)** — a software company building scalable MERN stack applications for real businesses. I've shipped SaaS products, ERP systems, billing tools, and corporate websites that are live and serving real clients across India.
+
+I care about clean architecture, reliable systems, and software that solves real problems.
 
 ```typescript
 const aditya = {
-  role       : "Full Stack Developer",
+  role       : "Full Stack Developer & Founder",
   company    : "TrustIQ Tech",
+  website    : "https://trustiqtech.com",
   education  : "MCA",
-  location   : "Bengaluru, India",
+  location   : "Bengaluru / Bagalkot, India",
   stack      : ["React", "Node.js", "Express", "MongoDB", "MySQL", "Python"],
-  interests  : ["System Design", "Cloud Architecture", "AI/ML Integration"],
+  currently  : ["Cloud Architecture", "SaaS Products", "AI/ML Integration"],
+  clients    : ["NJ School", "Raju Digital", "VK Agency", "Smart Constructions"],
 };
 ```
 
@@ -59,7 +58,7 @@ const aditya = {
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Tools**
+**Tools & Platforms**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -70,24 +69,37 @@ const aditya = {
 
 ## Experience
 
-**TrustIQ Tech** &nbsp;·&nbsp; Full Stack Developer &nbsp;·&nbsp; *Current*
-- Building and maintaining scalable web applications end-to-end
-- Developing React frontends with Node.js/Express REST APIs
-- Database design and optimization across MongoDB and MySQL
+**TrustIQ Tech** &nbsp;·&nbsp; Founder & Full Stack Developer &nbsp;·&nbsp; *2025 – Present* &nbsp;·&nbsp; [trustiqtech.com](https://trustiqtech.com)
+- Founded and operate a software company delivering full-stack products to SME clients across India
+- Architected and shipped 4+ production applications including SaaS, ERP, and billing systems
+- Serving clients: NJ School, Raju Digital, VK Agency, Smart Constructions, Sanju Jewellery Shop
 
 **Technex** &nbsp;·&nbsp; Full Stack Developer Intern
-- Contributed to full stack feature development in a collaborative team
-- Gained production experience across the MERN stack
+- Contributed to production features in a collaborative MERN stack team
+- Delivered end-to-end modules from database schema to React UI
 
 ---
 
-## Featured Projects
+## Projects @ TrustIQ Tech
 
-| Project | Description | Stack | Repo |
+> Live products built and deployed for real clients
+
+| Project | Category | Description | Link |
 |---|---|---|---|
-| 🧠 **MindMapAI** | AI-powered mind mapping tool for brainstorming and knowledge organization | React · Node.js · AI APIs | [→](https://github.com/adityamvMCA) |
-| 💬 **Real-Time Chat** | Full-stack chat app with WebSocket-based instant messaging | React · Socket.io · Node.js | [→](https://github.com/adityamvMCA) |
-| 💰 **FinanceTracker** | Personal finance manager with expense tracking and analytics | React · Node.js · MongoDB | [→](https://github.com/adityamvMCA) |
+| 🪪 **TrustIQ ID Card System** | SaaS Product | Web-based ID card generation and management system — design, print, and issue ID cards at scale | [trustiqtech.com →](https://trustiqtech.com/#portfolio) |
+| 🏢 **ERP with Real-time Chat** | Enterprise Software | Full ERP suite with integrated real-time messaging using WebSockets for internal team communication | [trustiqtech.com →](https://trustiqtech.com/#portfolio) |
+| 🧾 **Trust Billing Application** | Business App | Invoice and billing management tool built for small and medium businesses — fast, offline-capable | [trustiqtech.com →](https://trustiqtech.com/#portfolio) |
+| 🌐 **Corporate Website** | Web Development | Custom corporate websites built for clients with SEO, responsive design, and CMS integration | [trustiqtech.com →](https://trustiqtech.com/#portfolio) |
+
+---
+
+## Personal Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🧠 **MindMapAI** | AI-powered mind mapping tool for brainstorming and knowledge organization | React · Node.js · AI APIs |
+| 💬 **Real-Time Chat App** | Full-stack messaging app with WebSocket-based instant communication | React · Socket.io · Node.js |
+| 💰 **FinanceTracker** | Personal finance manager with expense analytics and budget tracking | React · Node.js · MongoDB |
 
 ---
 
@@ -95,14 +107,14 @@ const aditya = {
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=adityamvMCA&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamvMCA&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=adityamvMCA&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamvMCA&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityamvMCA&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B25&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityamvMCA&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B25&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
 
@@ -118,8 +130,8 @@ const aditya = {
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 
-*If you find my work useful, a ⭐ on the repo goes a long way.*
+*If you find my work helpful, a ⭐ on the repo means a lot.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0D1117&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=80&section=footer" width="100%"/>
 
 </div>
