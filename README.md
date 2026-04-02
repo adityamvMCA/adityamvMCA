@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=140&section=header&text=Aditya%20M%20V&fontSize=42&fontColor=ffffff&fontAlignY=55&desc=Full%20Stack%20Developer&descAlignY=75&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+production-grade+web+applications;React+%7C+Node.js+%7C+MongoDB+%7C+MySQL+%7C+Python;Founder+%40+TrustIQ+Tech+%F0%9F%9A%80;Open+to+exciting+opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+production-grade+web+applications;React+%7C+Node.js+%7C+MongoDB+%7C+MySQL+%7C+Python;1%2B+Years+of+Full+Stack+Experience;Open+to+exciting+opportunities)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:info@trustiqtech.it.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adityamvMCA)
-[![TrustIQ Tech](https://img.shields.io/badge/TrustIQ%20Tech-0D1117?style=flat-square&logo=vercel&logoColor=white)](https://trustiqtech.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://trustiqtech.com)
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=adityamvMCA&style=flat-square&color=58A6FF&label=Profile+Views)
 
@@ -19,19 +19,19 @@
 
 ## About Me
 
-I'm a Full Stack Developer and founder of **[TrustIQ Tech](https://trustiqtech.com)** — a software company building scalable MERN stack applications for real businesses. I've shipped SaaS products, ERP systems, billing tools, and corporate websites that are live and serving real clients across India.
+Full Stack Developer with 1+ years of hands-on experience designing and shipping production web applications. I've built SaaS platforms, ERP systems, billing tools, and corporate websites — all live and serving real users.
 
-I care about clean architecture, reliable systems, and software that solves real problems.
+I focus on clean architecture, scalable backends, and interfaces that just work.
+
 ```typescript
 const aditya = {
-  role       : "Full Stack Developer & Founder",
-  company    : "TrustIQ Tech",
-  website    : "https://trustiqtech.com",
+  role       : "Full Stack Developer",
   education  : "MCA",
-  location   : "Bengaluru / Bagalkot, India",
+  experience : "1+ Years",
+  location   : "Bengaluru, India",
   stack      : ["React", "Node.js", "Express", "MongoDB", "MySQL", "Python"],
-  currently  : ["Cloud Architecture", "SaaS Products", "AI/ML Integration"],
-  clients    : ["NJ School", "Raju Digital", "VK Agency", "Smart Constructions"],
+  building   : ["SaaS Products", "ERP Systems", "REST APIs", "Real-time Apps"],
+  interests  : ["System Design", "Cloud Architecture", "AI/ML Integration"],
 };
 ```
 
@@ -66,39 +66,39 @@ const aditya = {
 
 ---
 
-## Experience
+## Work Experience
 
-**TrustIQ Tech** &nbsp;·&nbsp; Founder & Full Stack Developer &nbsp;·&nbsp; *2025 – Present* &nbsp;·&nbsp; [trustiqtech.com](https://trustiqtech.com)
-- Founded and operate a software company delivering full-stack products to SME clients across India
-- Architected and shipped 4+ production applications including SaaS, ERP, and billing systems
-- Serving clients: NJ School, Raju Digital, VK Agency, Smart Constructions, Sanju Jewellery Shop
+**Full Stack Developer** &nbsp;·&nbsp; *2025 – Present*
+- Designing and shipping full-stack web applications end-to-end
+- Building React frontends with Node.js/Express REST APIs
+- Database architecture and optimization using MongoDB and MySQL
+- Delivered 4+ production applications serving real clients
 
-**Technex** &nbsp;·&nbsp; Full Stack Developer Intern
-- Contributed to production features in a collaborative MERN stack team
+**Full Stack Developer Intern**
+- Contributed to production feature development across the MERN stack
 - Delivered end-to-end modules from database schema to React UI
+- Collaborated in an agile team environment on real-world projects
 
 ---
 
-## Projects @ TrustIQ Tech
+## Projects
 
-> Live products built and deployed for real clients
+### 🏢 Production Projects
 
-| Project | Category | Description | Link |
-|---|---|---|---|
-| 🪪 **TrustIQ ID Card System** | SaaS Product | Web-based ID card generation and management system — design, print, and issue ID cards at scale | [trustiqtech.com →](https://trustiqtech.com/#portfolio) |
-| 🏢 **ERP with Real-time Chat** | Enterprise Software | Full ERP suite with integrated real-time messaging using WebSockets for internal team communication | [trustiqtech.com →](https://trustiqtech.com/#portfolio) |
-| 🧾 **Trust Billing Application** | Business App | Invoice and billing management tool built for small and medium businesses — fast, offline-capable | [trustiqtech.com →](https://trustiqtech.com/#portfolio) |
-| 🌐 **Corporate Website** | Web Development | Custom corporate websites built for clients with SEO, responsive design, and CMS integration | [trustiqtech.com →](https://trustiqtech.com/#portfolio) |
+| Project | Description | Stack |
+|---|---|---|
+| 🪪 **ID Card Management System** | SaaS platform for designing, generating, and issuing ID cards at scale — used by schools and businesses | React · Node.js · MongoDB |
+| 🏭 **ERP with Real-time Chat** | Enterprise resource planning suite with integrated WebSocket-based team messaging | React · Node.js · Socket.io · MySQL |
+| 🧾 **Billing Application** | Invoice and billing management tool for SMEs — handles products, clients, and tax-ready reports | React · Node.js · MongoDB |
+| 🌐 **Corporate Websites** | Custom responsive websites for businesses with SEO optimization and CMS integration | React · Node.js · CSS3 |
 
----
-
-## Personal Projects
+### 🧪 Personal Projects
 
 | Project | Description | Stack |
 |---|---|---|
 | 🧠 **MindMapAI** | AI-powered mind mapping tool for brainstorming and knowledge organization | React · Node.js · AI APIs |
 | 💬 **Real-Time Chat App** | Full-stack messaging app with WebSocket-based instant communication | React · Socket.io · Node.js |
-| 💰 **FinanceTracker** | Personal finance manager with expense analytics and budget tracking | React · Node.js · MongoDB |
+| 💰 **FinanceTracker** | Personal finance manager with expense analytics and budget dashboard | React · Node.js · MongoDB |
 
 ---
 
