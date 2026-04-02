@@ -22,7 +22,6 @@
 I'm a Full Stack Developer and founder of **[TrustIQ Tech](https://trustiqtech.com)** — a software company building scalable MERN stack applications for real businesses. I've shipped SaaS products, ERP systems, billing tools, and corporate websites that are live and serving real clients across India.
 
 I care about clean architecture, reliable systems, and software that solves real problems.
-
 ```typescript
 const aditya = {
   role       : "Full Stack Developer & Founder",
