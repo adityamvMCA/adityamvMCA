@@ -106,20 +106,29 @@ const aditya = {
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=adityamvMCA&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamvMCA&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9" />
+<!-- Stats Card - using anuraghazra stats (most reliable) -->
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=adityamvMCA&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" />
+&nbsp;
+<!-- Top Languages -->
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamvMCA&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityamvMCA&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B25&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
+<!-- Streak Stats - working ✅ -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=adityamvMCA&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B25&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
 
 </div>
 
+<br/>
+
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adityamvMCA&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Activity Graph -->
+[![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityamvMCA&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
