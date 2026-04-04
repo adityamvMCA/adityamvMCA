@@ -106,22 +106,23 @@ const aditya = {
 
 <div align="center">
 
-<!-- GPRM Stats Card -->
-<img src="https://github-readme-stats.vercel.app/api?username=adityamvMCA&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-
-<!-- GPRM Streak Stats -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=adityamvMCA&theme=dark&hide_border=false" /><br/>
-
-<!-- GPRM Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamvMCA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-stats-alpha.vercel.app/api?username=adityamvMCA&cc=000&tc=58A6FF&ic=fff&bc=000" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=adityamvMCA&theme=dark&hide_border=false&count_private=true" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-<!-- GPRM Activity Graph -->
 [![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityamvMCA&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
