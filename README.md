@@ -102,33 +102,18 @@ const aditya = {
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<!-- Stats Card - using anuraghazra stats (most reliable) -->
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=adityamvMCA&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" />
-&nbsp;
-<!-- Top Languages -->
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamvMCA&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=c9d1d9&cache_seconds=1800" />
+<!-- GPRM Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=adityamvMCA&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
 
-</div>
+<!-- GPRM Streak Stats -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=adityamvMCA&theme=dark&hide_border=false" /><br/>
 
-<br/>
-
-<div align="center">
-
-<!-- Streak Stats - working ✅ -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=adityamvMCA&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7B25&currStreakLabel=58A6FF&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<!-- Activity Graph -->
-[![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityamvMCA&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- GPRM Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityamvMCA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 </div>
 
@@ -136,9 +121,14 @@ const aditya = {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<!-- GPRM Activity Graph -->
+[![Aditya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adityamvMCA&theme=github-compact&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-*If you find my work helpful, a ⭐ on the repo means a lot.*
+</div>
+
+---
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12&height=80&section=footer" width="100%"/>
 
